@@ -18,7 +18,7 @@ Algumas das tecnologias e ferramentas que utilizo:
 
 | Tempo Programando                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardonogueira8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardonogueira8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark) |
 
 ### 💬 Minhas redes de contato:
 
