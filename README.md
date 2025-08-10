@@ -21,7 +21,7 @@ Atualmente estou trabalhando na **DASF** - Diretora de Assistência Farmacêutic
 
 ### GitHub Status
 
-| Tempo Programando                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardonogueira8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardonogueira8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark) |
+| Principais Linguagens | Tempo Programando |
+| --------------------- | ----------------- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardonogueira8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark) | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuraiflamesf)|
 
