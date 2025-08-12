@@ -1,4 +1,4 @@
-# 👨‍💻 Bernardo Nogueira da Silva
+# Bernardo Nogueira da Silva 👨‍💻
 ## Pós em Ciência de Dados Aplicada à Saúde e Matemática Financeira e Estatística
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonogueira8/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
