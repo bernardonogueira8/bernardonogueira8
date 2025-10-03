@@ -1,7 +1,7 @@
 # Bernardo Nogueira da Silva 👨‍💻
 ## Pós em Ciência de Dados Aplicada à Saúde e Matemática Financeira e Estatística
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonogueira8/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqcrZPdAU0NOdqJu4OAyt9A)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_Zyyr27x67UaGcHS55rutQ)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.nogueira8/)
 ![Views](https://komarev.com/ghpvc/?username=bernardonogueira8&style=for-the-badge&color=orange)
 
