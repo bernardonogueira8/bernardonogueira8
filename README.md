@@ -20,7 +20,7 @@ Atuação estratégica na Diretoria de Assistência Farmacêutica (DASF), em int
 
 ### Experiencia
 - Profissional de dados em BI - IFBA/PROEX - abril 2026 / presente
-- Analista de Dados & Requisitos - FESFSUS - junho 2023 / presente
+- Analista de Dados & Requisitos - SESAB/FESF-SUS - junho 2023 / presente
 - Programa Institucional de Bolsas de Iniciação à Docência - CPM/IFBA - novembro 2024 / fevereiro 2026
 - Extensionista Acadêmico - Educação Financeira e OLITEF - fevereiro 2025 / dezembro 2025
 - Técnico de Tecnologia da Informação - FESFSUS - maio 2021 / maio 2023
