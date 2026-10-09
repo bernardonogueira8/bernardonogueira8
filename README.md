@@ -6,6 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/channel/UC_Zyyr27x67UaGcHS55rutQ)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/bernardo.nogueira8/)
 ![Views](https://komarev.com/ghpvc/?username=bernardonogueira8&style=for-the-badge&color=orange)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/bernardonogueira8)
 
 Atuação estratégica na Diretoria de Assistência Farmacêutica (DASF), em inteligência de negócio e indicadores de performance. Meu conjunto de habilidades inclui Python, Power BI, SQL, Oracle e tecnologias como Large Language Models(LLMs).
 
